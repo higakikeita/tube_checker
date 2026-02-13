@@ -68,7 +68,7 @@ gem 'fog-aws'
 
 gem 'mini_magick'
 
-gem 'google-api-client', '~> 0.11.1'
+gem 'google-api-client', '~> 0.53.0'
 gem 'trollop'
 
 gem 'dotenv-rails'
